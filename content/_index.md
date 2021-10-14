@@ -69,7 +69,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Study Program
         image: >-
           images/depositphotos_240146540-stock-illustration-banner-devops-concept-software-engineering.jpg
         image_alt: App user profile preview
