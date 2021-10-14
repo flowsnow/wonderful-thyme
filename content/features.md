@@ -39,7 +39,7 @@ sections:
   - section_id: lorem-ipsum
     title: 'CLASS STARTS:'
     content: >
-      ## 06 NOVEMBER 2021
+      ##
 
 
       ### *Kubernetes*
