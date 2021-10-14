@@ -15,27 +15,6 @@ sections:
       level is achieved we guide our students through the interview process, as
       getting in the right set of mind is crucial to success
     actions: []
-  - section_id: features
-    type: section_content
-    background: gray
-    image: images/Whale-Logo332_5-bf354480.png
-    image_alt: App preview on a phone and tablet
-    title: 25 October
-    content: >
-      > *DOCKER*
-
-
-      is an open platform for developing, shipping, and running applications.
-      Docker enables you to separate your applications from your infrastructure
-      so you can deliver software quickly. With Docker, you can manage your
-      infrastructure in the same ways you manage your applications. By taking
-      advantage of Docker’s methodologies for shipping, testing, and deploying
-      code quickly, you can significantly reduce the delay between writing code
-      and running it in production.
-    actions:
-      - label: visit Docker.com
-        url: 'https://www.docker.com/'
-        style: secondary
   - section_id: lorem-ipsum
     title: 06 NOVEMBER 2021
     content: >
@@ -57,6 +36,27 @@ sections:
     actions: []
     type: section_content
     image: images/Kubernetes-logo-af999678.png
+  - section_id: features
+    type: section_content
+    background: gray
+    image: images/Whale-Logo332_5-bf354480.png
+    image_alt: App preview on a phone and tablet
+    title: 25 October
+    content: >
+      > *DOCKER*
+
+
+      is an open platform for developing, shipping, and running applications.
+      Docker enables you to separate your applications from your infrastructure
+      so you can deliver software quickly. With Docker, you can manage your
+      infrastructure in the same ways you manage your applications. By taking
+      advantage of Docker’s methodologies for shipping, testing, and deploying
+      code quickly, you can significantly reduce the delay between writing code
+      and running it in production.
+    actions:
+      - label: visit Docker.com
+        url: 'https://www.docker.com/'
+        style: secondary
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
