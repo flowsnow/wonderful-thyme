@@ -15,7 +15,7 @@ sections:
       level is achieved we guide our students through the interview process, as
       getting in the right set of mind is crucial to success
     actions: []
-  - title: upcoming classes
+  - title: Sign up now
     subtitle: On location only ( Park Ridge IL)
     background: gray
     features:
