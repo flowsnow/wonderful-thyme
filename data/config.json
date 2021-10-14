@@ -15,7 +15,7 @@
             {
                 "label": "Courses",
                 "url": "/features",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "About",
