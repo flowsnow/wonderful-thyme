@@ -10,7 +10,7 @@
             {
                 "label": "Home",
                 "url": "/",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "Courses",
