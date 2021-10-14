@@ -31,7 +31,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/Whale-Logo332_5-bf354480.png
+    image: images/Moby-run.png
     image_alt: App preview on a phone and tablet
     title: 25 October
     content: >
