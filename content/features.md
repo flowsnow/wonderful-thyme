@@ -77,6 +77,7 @@ sections:
         actions: []
         image: images/5-h-k7gvj49e-ea5b9e13-8be34a94.png
     type: section_features
+    section_id: Have to be sign for class at least 30
 seo:
   title: Features
   description: This is the features page
