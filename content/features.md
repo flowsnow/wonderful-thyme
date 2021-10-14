@@ -15,7 +15,7 @@ sections:
       level is achieved we guide our students through the interview process, as
       getting in the right set of mind is crucial to success
     actions: []
-  - title: lorem-ipsum
+  - title: upcoming classes
     subtitle: lorem-ipsum
     background: gray
     features:
