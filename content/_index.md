@@ -54,10 +54,14 @@ sections:
       - title: Awesome Feature of Your Services
         image: images/devops-6b217f54.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          **02.**
+
+
+          Kloudvibe offers you a comfortable and functional learning
+          environment.
+
+          Our classrooms have a cozy kitchen and a relaxation area.
         actions:
           - label: Learn More
             url: /features
