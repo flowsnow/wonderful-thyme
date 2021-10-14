@@ -38,7 +38,7 @@ sections:
           **01.**
 
 
-          #### ****
+          ####
 
 
           Experienced instructors from the largest IT companies in America are
