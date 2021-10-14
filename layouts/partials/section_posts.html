@@ -17,11 +17,7 @@
       {{ range $post := $recent_posts }}
       <article class="cell post">
         <div class="card">
-          {{ if $post.Params.thumb_image }}
-          <a class="post-thumbnail" href="{{ $post.URL }}">
-            <img src="{{ $post.Params.thumb_image | relURL }}" alt="{{ $post.Params.thumb_image_alt }}" />
-          </a>
-          {{ end }}
+          
           <div class="post-body">
             <header class="post-header">
               <h3 class="post-title"><a href="{{ $post.URL }}">{{ $post.Params.title }}</a></h3>
