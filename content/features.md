@@ -30,7 +30,7 @@ sections:
     section_id: On-site classes only
   - section_id: lorem-ipsum
     title: DOCKER
-    subtitle: lorem-ipsum
+    subtitle: ' is an open platform for developing, shipping, and running applications.'
     actions: []
     type: section_cta
   - section_id: features
