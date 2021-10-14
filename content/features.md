@@ -28,11 +28,6 @@ sections:
         image: images/5-h-k7gvj49e-ea5b9e13-8be34a94.png
     type: section_features
     section_id: On-site classes only
-  - section_id: lorem-ipsum
-    title: What is Kubernetes vs Docker?
-    subtitle: "A fundamental difference between Kubernetes and Docker is that\_Kubernetes is meant to run across a cluster while Docker runs on a single node. Kubernetes is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner."
-    actions: []
-    type: section_cta
   - section_id: features
     type: section_content
     background: gray
@@ -65,6 +60,11 @@ sections:
       - label: visit Docker.com
         url: 'https://www.docker.com/'
         style: secondary
+  - section_id: lorem-ipsum
+    title: What is Kubernetes vs Docker?
+    subtitle: "A fundamental difference between Kubernetes and Docker is that\_Kubernetes is meant to run across a cluster while Docker runs on a single node. Kubernetes is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner."
+    actions: []
+    type: section_cta
   - section_id: lorem-ipsum
     title: 06 NOVEMBER 2021
     content: "> *Class starts on:*\n>\n> **kubernetes**\n\n*   Learn everything\_*Kubernetes*\_offers for each particular pattern, with tested conclusions.\n\n*    Get detailed, reusable\_*Kubernetes*\_patterns for container deployment and orchestration.\n\n"
