@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/Docker-logo-b8fc4af0.jpg
     image_alt: App preview on a phone and tablet
-    title: DOCKER
+    title: Starts 25 October
     content: >
       Docker is an open platform for developing, shipping, and running
       applications. Docker enables you to separate your applications from your
