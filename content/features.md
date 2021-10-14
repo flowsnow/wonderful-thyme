@@ -33,7 +33,7 @@ sections:
     background: gray
     image: images/Moby-run.png
     image_alt: App preview on a phone and tablet
-    title: 25 October
+    title: 25 October 2021
     content: >
       > *Class starts on:*
 
