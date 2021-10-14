@@ -31,7 +31,10 @@ seo:
         Docker, Ansible, Puppet, Kubernetes and Nagios
       keyName: property
     - name: 'og:description'
-      value: A tale about advantages and disadvantages of working from home
+      value: >-
+        The DevOps Training Program will provide you with in-depth knowledge of
+        various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+        Docker, Ansible, Puppet, Kubernetes and Nagios
       keyName: property
     - name: 'og:image'
       value: images/9.jpg
