@@ -34,7 +34,7 @@ seo:
         Docker, Ansible, Puppet, Kubernetes and Nagios
       keyName: property
     - name: 'og:image'
-      value: images/9.jpg
+      value: images/Moby-run.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
