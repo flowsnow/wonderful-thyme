@@ -7,7 +7,8 @@ sections:
     title: Pricing Plans
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - 
+      - thumb_image: images/Kubernetes-logo.png
+thumb_image_alt: People in a conference room
         title: Basic
         subtitle: For small businesses
         price: $5/m
