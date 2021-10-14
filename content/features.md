@@ -59,6 +59,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/Kubernetes-logo-af999678.png
 seo:
   title: Features
   description: This is the features page
