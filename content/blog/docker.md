@@ -1,6 +1,6 @@
 ---
 title: All you need to know about Docker
-subtitle: lorem-ipsum
+subtitle: lorem-ipsum.
 date: '2020-04-22'
 excerpt: >-
   Docker is an open platform for developing, shipping, and running applications.
