@@ -32,7 +32,7 @@ sections:
       job.
     features:
       - title: The Best Feature of Your Services
-        image: images/community1.png
+        image: images/background3-h-k7h31b0h-d5a6204a.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
