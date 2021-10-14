@@ -20,7 +20,7 @@ sections:
         url: /signup
         style: primary
       - label: visit Docker.com
-        url: '#'
+        url: 'https://www.docker.com/'
         style: secondary
   - section_id: lorem-ipsum
     title: lorem-ipsum
