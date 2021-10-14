@@ -25,10 +25,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: >-
-        The DevOps Training Program will provide you with in-depth knowledge of
-        various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
-        Docker, Ansible, Puppet, Kubernetes and Nagios
+      value: The DevOps Training will provide you in-depth knowledge
       keyName: property
     - name: 'og:description'
       value: >-
