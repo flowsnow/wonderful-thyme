@@ -65,6 +65,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/devops-3f012fda.png
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
