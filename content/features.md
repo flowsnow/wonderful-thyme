@@ -30,7 +30,7 @@ sections:
     section_id: On-site classes only
   - section_id: lorem-ipsum
     title: Coi
-    subtitle: "What is Kubernetes vs Docker?A fundamental difference between Kubernetes and Docker is that\_Kubernetes is meant to run across a cluster while Docker runs on a single node. Kubernetes is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner."
+    subtitle: "A fundamental difference between Kubernetes and Docker is that\_Kubernetes is meant to run across a cluster while Docker runs on a single node. Kubernetes is more extensive than Docker Swarm and is meant to coordinate clusters of nodes at scale in production in an efficient manner."
     actions: []
     type: section_cta
   - section_id: features
