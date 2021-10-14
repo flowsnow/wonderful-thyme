@@ -17,11 +17,7 @@
       <div class="cell plan">
         <div class="card{{ if $plan.highlight }} highlight{{ end }}">
           <div class="plan-header">
-             {{ if $post.Params.thumb_image }}
-          <a class="post-thumbnail" href="{{ $post.URL }}">
-            <img src="{{ $post.Params.thumb_image | relURL }}" alt="{{ $post.Params.thumb_image_alt }}" />
-          </a>
-          {{ end }}
+           
             {{ if $plan.title }}
             <h3 class="plan-title">{{ $plan.title }}</h3>
             {{ end }}
