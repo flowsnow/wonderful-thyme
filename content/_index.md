@@ -34,10 +34,16 @@ sections:
       - title: The Best Feature of Your Services
         image: images/devops-consulting-services-500x500-f21cb1e9.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          **01.**
+
+
+          #### **Best instructors**
+
+
+          Experienced instructors from the largest IT companies in America are
+          working with us. Our school provides full mentorship for you
+          throughout the whole course, until you get a job.
         actions:
           - label: Learn More
             url: /features
