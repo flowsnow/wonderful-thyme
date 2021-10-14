@@ -74,9 +74,7 @@ sections:
     type: section_reviews
     background: gray
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: What people say
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
