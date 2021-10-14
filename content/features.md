@@ -59,21 +59,7 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: 06 NOVEMBER 2021
-    content: >
-      > *Class starts on:*
-
-      >
-
-      > **kubernetes**
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
+    content: "> *Class starts on:*\n>\n> **kubernetes**\n\n*   Learn everything\_*Kubernetes*\_offers for each particular pattern, with tested conclusions.\n\n*    Get detailed, reusable\_*Kubernetes*\_patterns for container deployment and orchestration.\n\n"
     image_alt: lorem-ipsum
     background: gray
     actions: []
