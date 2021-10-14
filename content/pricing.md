@@ -19,7 +19,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
-        highlight: true
+        highlight: false
       - title: Professional
         subtitle: For medium-sized businesses
         price: $49/m
