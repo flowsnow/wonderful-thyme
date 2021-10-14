@@ -116,7 +116,7 @@ sections:
     title: Interesting Articles
 seo:
   title: Kloudvibe DevOps Bootcamp in Park Ridge Chicago IL
-  description: The preview of the Azimuth theme
+  description: Kloudvibe DevOps Bootcamp in Park Ridge Chicago IL
   extra:
     - name: 'og:type'
       value: website
