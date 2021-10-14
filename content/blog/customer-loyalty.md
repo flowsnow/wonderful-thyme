@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: Starts 25 October
 subtitle: A story about customer loyalty
 author: data/authors/jane-doe.json
 excerpt: >-
