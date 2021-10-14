@@ -15,27 +15,6 @@ sections:
       level is achieved we guide our students through the interview process, as
       getting in the right set of mind is crucial to success
     actions: []
-  - section_id: lorem-ipsum
-    title: 06 NOVEMBER 2021
-    content: >
-      ##
-
-
-      ### *Kubernetes*
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      *   Lorem ipsum
-
-      *   dolor sit amet
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-    image: images/Kubernetes-logo-af999678.png
   - section_id: features
     type: section_content
     background: gray
@@ -57,6 +36,27 @@ sections:
       - label: visit Docker.com
         url: 'https://www.docker.com/'
         style: secondary
+  - section_id: lorem-ipsum
+    title: 06 NOVEMBER 2021
+    content: >
+      ##
+
+
+      ### *Kubernetes*
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      *   Lorem ipsum
+
+      *   dolor sit amet
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
+    image: images/Kubernetes-logo-af999678.png
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
