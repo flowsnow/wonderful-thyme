@@ -61,7 +61,7 @@ sections:
             icon_position: right
       - title: Cool Feature of Your Services
         image: >-
-          images/572-5727950_transparent-gatsby-png-styled-components-logo-clipart.png
+          images/depositphotos_240146540-stock-illustration-banner-devops-concept-software-engineering.jpg
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
