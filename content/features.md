@@ -38,17 +38,17 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: 'CLASS STARTS:'
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## 06 NOVEMBER 2021
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []
