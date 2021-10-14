@@ -50,6 +50,11 @@ sections:
         url: 'https://www.docker.com/'
         style: secondary
   - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
+  - section_id: lorem-ipsum
     title: 06 NOVEMBER 2021
     content: >
       ##
