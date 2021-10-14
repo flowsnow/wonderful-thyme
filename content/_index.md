@@ -115,7 +115,7 @@ sections:
     background: gray
     title: Interesting Articles
 seo:
-  title: Stackbit Azimuth Theme
+  title: Kloudvibe DevOps Bootcamp in Park Ridge Chicago IL
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
