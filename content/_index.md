@@ -73,10 +73,14 @@ sections:
         image: >-
           images/depositphotos_240146540-stock-illustration-banner-devops-concept-software-engineering.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          **03.**
+
+
+          The training program is developed based on real requests and demand
+          from employers/companies.
+
+          Throughout the course, students work on real projects.
         actions:
           - label: Learn More
             url: /features
