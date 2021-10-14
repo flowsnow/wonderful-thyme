@@ -1,5 +1,5 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: Starts 25 November
 excerpt: >-
   Docker is an open platform for developing, shipping, and running applications.
   Docker enables you to separate your applications from your infrastructure so
