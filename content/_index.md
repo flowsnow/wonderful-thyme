@@ -46,7 +46,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Awesome Feature of Your Services
-        image: images/footer-mountain.svg
+        image: images/54e7dc474c55ae14ea89857dc22e3-h-k7foyouk.jpg
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
