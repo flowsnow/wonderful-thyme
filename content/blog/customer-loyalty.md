@@ -2,9 +2,7 @@
 title: Starts 25 October
 subtitle: A story about customer loyalty
 author: data/authors/jane-doe.json
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+excerpt: I
 date: '2021-01-03'
 thumb_image: images/download.png
 thumb_image_alt: A group of people working in a cafe
