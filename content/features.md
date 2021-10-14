@@ -79,6 +79,7 @@ sections:
           - dolor sit amet
         image_alt: lorem-ipsum
         actions: []
+        image: images/5-h-k7gvj49e-ea5b9e13-8be34a94.png
     type: section_features
 seo:
   title: Features
