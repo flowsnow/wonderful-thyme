@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/Whale-Logo332_5-bf354480.png
     image_alt: App preview on a phone and tablet
-    title: Starts 25 October
+    title: DOCKER
     content: >
       ### *DOCKER*
 
