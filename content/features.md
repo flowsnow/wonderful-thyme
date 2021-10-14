@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/Docker-logo-b8fc4af0.jpg
+    image: images/Whale-Logo332_5-bf354480.png
     image_alt: App preview on a phone and tablet
     title: Starts 25 October
     content: >
