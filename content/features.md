@@ -37,7 +37,7 @@ sections:
         url: 'https://www.docker.com/'
         style: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: 'CLASS STARTS:  06 NOVEMBER 2021'
     content: >-
       ## Lorem ipsum
 
