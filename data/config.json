@@ -67,7 +67,7 @@
                         "url": "#",
                         "style": "secondary",
                         "has_icon": true,
-                        "icon": "arrow-right",
+                        "icon": "envelope",
                         "icon_position": "left",
                         "new_window": false,
                         "no_follow": false
