@@ -19,7 +19,7 @@ sections:
       Continuous Monitoring of software throughout its development life cycle.
     actions:
       - label: Learn More
-        url: /features
+        url: /courses
         style: primary
   - section_id: features
     type: section_features
