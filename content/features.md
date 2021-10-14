@@ -57,8 +57,7 @@ sections:
     actions: []
     type: section_content
     image: images/Kubernetes-logo-af999678.png
-  - section_id: 'Classes start '
-    title: lorem-ipsum
+  - title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
     features:
