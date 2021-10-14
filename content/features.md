@@ -57,7 +57,7 @@ sections:
     actions: []
     type: section_content
     image: images/Kubernetes-logo-af999678.png
-  - section_id: lorem-ipsum
+  - section_id: Class
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
