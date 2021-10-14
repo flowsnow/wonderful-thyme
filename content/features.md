@@ -8,7 +8,7 @@ sections:
     image_alt: App preview on a phone and tablet
     title: 25 October
     content: >
-      ### *DOCKER*
+      > *DOCKER*
 
 
       is an open platform for developing, shipping, and running applications.
