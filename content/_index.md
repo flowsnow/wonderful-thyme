@@ -109,6 +109,9 @@ sections:
       as our students, thus, we are qualified to guide them through this
       rewarding journey.
     actions: []
+    title: >-
+      Our experience and expertise in emerging technologies make the big ocean
+      of IT feel like a breeze.
   - section_id: recent-posts
     type: section_posts
     background: gray
