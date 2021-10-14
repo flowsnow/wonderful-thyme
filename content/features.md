@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/Docker-logo-b8fc4af0.jpg
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
+    title: DOCKER
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
