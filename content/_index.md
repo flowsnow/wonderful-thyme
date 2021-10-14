@@ -60,7 +60,8 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Cool Feature of Your Services
-        image: images/feature3.png
+        image: >-
+          images/572-5727950_transparent-gatsby-png-styled-components-logo-clipart.png
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
