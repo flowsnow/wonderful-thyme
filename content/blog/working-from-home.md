@@ -25,7 +25,10 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: >-
+        The DevOps Training Program will provide you with in-depth knowledge of
+        various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+        Docker, Ansible, Puppet, Kubernetes and Nagios
       keyName: property
     - name: 'og:description'
       value: A tale about advantages and disadvantages of working from home
