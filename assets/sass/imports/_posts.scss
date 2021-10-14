@@ -84,7 +84,12 @@
   position: relative;
   width: auto;
   object-fit: contain;
- 
+
+  &:before {
+    content: "";
+    display: block;
+    padding-top: 40%;
+  }
 
   img {
     border-radius: $border-radius $border-radius 0 0;
