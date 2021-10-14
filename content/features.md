@@ -18,7 +18,7 @@ sections:
   - title: Sign up now
     subtitle: >-
       Classes are on location only! We take pride in working directly with our
-      students( Park Ridge IL)
+      students 
     background: gray
     features:
       - title: lorem-ipsum
