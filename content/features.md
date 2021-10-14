@@ -19,7 +19,7 @@ sections:
       - label: Free Trial
         url: /signup
         style: primary
-      - label: View Demo
+      - label: visit Docker.com
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
