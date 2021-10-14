@@ -21,7 +21,7 @@ sections:
       students 
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: 04 DECEMBER 2021
         content: >-
           ## Lorem ipsum
 
