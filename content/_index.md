@@ -31,7 +31,7 @@ sections:
       that just goes through the curriculum and lets you figure out how to get a
       job.
     features:
-      - title: The Best Feature of Your Services
+      - title: "The Best Features of\_ Services"
         image: images/devops-consulting-services-500x500-f21cb1e9.png
         image_alt: App preview on a phone and tablet
         content: >
