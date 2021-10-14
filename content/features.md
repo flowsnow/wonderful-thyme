@@ -60,10 +60,9 @@ sections:
   - section_id: lorem-ipsum
     title: 06 NOVEMBER 2021
     content: >
-      ##
+      > *Class starts on:
 
-
-      ### *Kubernetes*
+      > Kubernetes*
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
