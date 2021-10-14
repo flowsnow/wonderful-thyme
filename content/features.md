@@ -7,21 +7,14 @@ sections:
     image: images/Docker-logo-b8fc4af0.jpg
     image_alt: App preview on a phone and tablet
     title: DOCKER
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-
-
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+    content: >
+      Docker is an open platform for developing, shipping, and running
+      applications. Docker enables you to separate your applications from your
+      infrastructure so you can deliver software quickly. With Docker, you can
+      manage your infrastructure in the same ways you manage your applications.
+      By taking advantage of Docker’s methodologies for shipping, testing, and
+      deploying code quickly, you can significantly reduce the delay between
+      writing code and running it in production.
     actions:
       - label: Free Trial
         url: /signup
