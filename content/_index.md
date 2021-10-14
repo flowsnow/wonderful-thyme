@@ -116,7 +116,10 @@ sections:
     title: Interesting Articles
 seo:
   title: Kloudvibe DevOps Bootcamp in Park Ridge Chicago IL
-  description: Kloudvibe DevOps Bootcamp in Park Ridge Chicago IL
+  description: >-
+    The DevOps Training Program will provide you with in-depth knowledge of
+    various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+    Docker, Ansible
   extra:
     - name: 'og:type'
       value: website
