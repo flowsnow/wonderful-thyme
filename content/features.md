@@ -16,7 +16,7 @@ sections:
       getting in the right set of mind is crucial to success
     actions: []
   - title: Sign up now
-    subtitle: Classes are on location only! ( Park Ridge IL)
+    subtitle: Classes are on location only! We take pride in ( Park Ridge IL)
     background: gray
     features:
       - title: lorem-ipsum
