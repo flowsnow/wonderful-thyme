@@ -28,6 +28,11 @@ sections:
         image: images/5-h-k7gvj49e-ea5b9e13-8be34a94.png
     type: section_features
     section_id: On-site classes only
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
   - section_id: features
     type: section_content
     background: gray
@@ -49,11 +54,6 @@ sections:
       - label: visit Docker.com
         url: 'https://www.docker.com/'
         style: secondary
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
   - section_id: lorem-ipsum
     title: 06 NOVEMBER 2021
     content: >
