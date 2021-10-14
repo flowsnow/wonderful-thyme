@@ -16,7 +16,10 @@ image: images/9.jpg
 image_alt: People in a conference room
 seo:
   title: All you need to know about Docker
-  description: A tale about advantages and disadvantages of working from home
+  description: >-
+    The DevOps Training Program will provide you with in-depth knowledge of
+    various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+    Docker, Ansible, Puppet, Kubernetes and Nagios
   extra:
     - name: 'og:type'
       value: article
