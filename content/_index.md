@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Looking for a professional career?
     content: >
-      ## Change your Life and Become a DevOps Engineer
+      #### Change your Life and Become a DevOps Engineer
 
 
       The DevOps Training Program will provide you with in-depth knowledge of
