@@ -18,7 +18,7 @@
       <article class="cell post">
         <div class="card">
           {{ if $post.Params.thumb_image }}
-          <a  href="{{ $post.URL }}">
+          <a class="post-thumbnail" href="{{ $post.URL }}">
             <img src="{{ $post.Params.thumb_image | relURL }}" alt="{{ $post.Params.thumb_image_alt }}" />
           </a>
           {{ end }}
