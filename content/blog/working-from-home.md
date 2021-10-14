@@ -5,7 +5,7 @@ excerpt: >-
   parenting into his or her business activities.
 author: data/authors/jane-doe.json
 date: '2020-04-22'
-thumb_image: images/Quasar_Logo.png
+thumb_image: images/5-h-k7gvj49e-ea5b9e13.png
 thumb_image_alt: People in a conference room
 image: images/9.jpg
 image_alt: People in a conference room
