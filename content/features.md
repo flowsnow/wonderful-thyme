@@ -42,6 +42,9 @@ sections:
       ## 06 NOVEMBER 2021
 
 
+      ### *Kubernetes*
+
+
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
