@@ -1,6 +1,14 @@
 ---
 title: We rock
 sections:
+  - section_id: call-to-action
+    type: section_cta
+    title: This Is Call to Action Block!
+    subtitle: This is an optional description for the call to action block.
+    actions:
+      - label: Get Started
+        url: '#'
+        style: secondary
   - section_id: features
     type: section_content
     background: gray
@@ -39,14 +47,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: '#'
-        style: secondary
 seo:
   title: Features
   description: This is the features page
