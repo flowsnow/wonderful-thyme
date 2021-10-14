@@ -19,9 +19,6 @@ sections:
       code quickly, you can significantly reduce the delay between writing code
       and running it in production.
     actions:
-      - label: Free Trial
-        url: /signup
-        style: primary
       - label: visit Docker.com
         url: 'https://www.docker.com/'
         style: secondary
