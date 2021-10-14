@@ -42,7 +42,10 @@ seo:
     - name: 'twitter:title'
       value: The DevOps Training will provide you in-depth knowledge
     - name: 'twitter:description'
-      value: A tale about advantages and disadvantages of working from home
+      value: >-
+        The DevOps Training Program will provide you with in-depth knowledge of
+        various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+        Docker, Ansible, Puppet, Kubernetes and Nagios
     - name: 'twitter:image'
       value: images/9.jpg
       relativeUrl: true
