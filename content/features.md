@@ -16,7 +16,7 @@ sections:
       getting in the right set of mind is crucial to success
     actions: []
   - title: upcoming classes
-    subtitle: lorem-ipsum
+    subtitle: On location only ( Park Ridge IL)
     background: gray
     features:
       - title: lorem-ipsum
