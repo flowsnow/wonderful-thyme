@@ -10,7 +10,7 @@ excerpt: >-
   advantage of Docker’s methodologies for shipping, testing, and deploying code
   quickly, you can significantly reduce the delay between writing code and
   running it in production.
-date: '2020-12-03'
+date: '2020-11-03'
 thumb_image: images/download.png
 thumb_image_alt: A group of people working in a cafe
 image: images/Docker-logo.jpg
