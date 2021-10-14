@@ -99,7 +99,9 @@ sections:
           through affordable and effective IT training programs.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: >-
+      Our experience and expertise in emerging technologies make the big ocean
+      of IT feel like a breeze.
     subtitle: >-
       KloudVibe emerged as a company that seeks out to connect our well-trained
       students with IT companies across the United States. Our commitment is to
