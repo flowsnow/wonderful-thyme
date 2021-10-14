@@ -4,7 +4,16 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Upcoming Courses
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      The world of IT can be scary and intimidating,but it doesn't have to be
+      that way.   If you have a grain of faith in YOU and can allocate 3-4 hours
+      per day to study, YOU can achieve in 6 months what others are
+      accomplishing in 4 years of College. Our curriculum is inspired from the
+      real life corporate IT world, combined with all the cool new technologies.
+      We primarily focus on Linux, Ansible, AWS and Kubernetes. But we also
+      cover Docker, Git, Terraform, Python to name a few. After the technical
+      level is achieved we guide our students through the interview process, as
+      getting in the right set of mind is crucial to success
     actions:
       - label: Get Started
         url: '#'
