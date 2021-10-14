@@ -14,10 +14,7 @@ sections:
       cover Docker, Git, Terraform, Python to name a few. After the technical
       level is achieved we guide our students through the interview process, as
       getting in the right set of mind is crucial to success
-    actions:
-      - label: Get Started
-        url: '#'
-        style: secondary
+    actions: []
   - section_id: features
     type: section_content
     background: gray
