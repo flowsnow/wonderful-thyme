@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/devops-consulting-services-500x500.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Looking for a professional career?
     content: >
       The DevOps Training Program will provide you with in-depth knowledge of
       various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
