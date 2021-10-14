@@ -84,8 +84,7 @@ sections:
         content: >-
           Simply the best IT training school specializing in Cloud Engineering,
           DevOps Engineering, Data Analytics, Data Science, Machine Learning,
-          Deep Learning, Full Stack Development, Front End Development, and Back
-          End Development.
+          Deep Learning and Back End Development.
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
