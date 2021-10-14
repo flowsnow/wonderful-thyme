@@ -6,9 +6,14 @@ sections:
     image: images/devops-consulting-services-500x500.png
     image_alt: App preview
     title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      The DevOps Training Program will provide you with in-depth knowledge of
+      various DevOps tools including Linux, AWS, GCP, Terraform, Git, Jenkins,
+      Docker, Ansible, Puppet, Kubernetes and Nagios. This training is
+      completely hands-on and designed in a way to help you become a
+      practitioner through best practices in Continuous Development, Continuous
+      Testing, Configuration Management and Continuous Integration, and finally,
+      Continuous Monitoring of software throughout its development life cycle.
     actions:
       - label: Learn More
         url: /features
